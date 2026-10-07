@@ -1,0 +1,7 @@
+{
+  "listen_host": "127.0.0.1",
+  "listen_port": 10850,
+  "remote_host": "188.114.97.6",
+  "remote_port": 443,
+  "split_offset": 40
+}
